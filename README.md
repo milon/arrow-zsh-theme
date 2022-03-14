@@ -1,10 +1,10 @@
 # arrow-zsh-theme
 
-A minimal theme for zsh shell
+A minimal theme for zsh shell. Works perfectly with [oh-my-zsh](https://ohmyz.sh) plugin.
 
 ## Installation
 
-### Antigen
+### [Antigen](https://github.com/zsh-users/antigen)
 
 ```
 antigen theme milon/arrow-zsh-theme
