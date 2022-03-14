@@ -12,7 +12,7 @@ antigen theme milon/arrow-zsh-theme
 
 ### Manual
 
-Copy `[arrow.zsh-theme](https://github.com/milon/arrow-zsh-theme/blob/master/arrow.zsh-theme)` file to `~/.oh-my-zsh/custom/themes/` folder.
+Copy [arrow.zsh-theme](https://github.com/milon/arrow-zsh-theme/blob/master/arrow.zsh-theme) file to `~/.oh-my-zsh/custom/themes/` folder.
 
 This set of commands will probably do what you want:
 
