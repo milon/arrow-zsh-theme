@@ -18,7 +18,7 @@ This set of commands will probably do what you want:
 
 ```
 git clone https://github.com/milon/arrow-zsh-theme.git
-ln -s $PWD/arrow-zsh-theme/sobole.zsh-theme ~/.oh-my-zsh/custom/themes/arrow.zsh-theme
+ln -s $PWD/arrow-zsh-theme/arrow.zsh-theme ~/.oh-my-zsh/custom/themes/arrow.zsh-theme
 ```
 
 Then set `ZSH_THEME="arrow"` inside your `.zshrc` file.
